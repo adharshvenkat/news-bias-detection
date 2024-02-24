@@ -4,6 +4,7 @@ News Bias Detection
 Project Contributors <a name="1"></a>
 ------------
 [Samyukta Hariharan](https://www.linkedin.com/in/samyukta-hariharan/) - Research Engineer (Data/ AI) @ Arabesque AI
+
 [Adharsh Venkatachalam](https://www.linkedin.com/in/adharshvenkatachalam/) - Robotics Engineer III @ Panasonic Asia Pacific
 
 About this Project <a name="2"></a>
